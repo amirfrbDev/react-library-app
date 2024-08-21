@@ -1,0 +1,9 @@
+.main {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.cardsContainer {
+    width: 100%;
+}
